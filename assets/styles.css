@@ -32,8 +32,9 @@ header{
     flex-direction: column;
 }
 
+
 label[for="ordenarPor"] {
-    margin-bottom: 10px; /* Espacio entre el label y el select */
+    margin-bottom: 9px; /* Espacio entre el label y el select */
 }
 
 select#ordenarPor {
